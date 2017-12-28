@@ -18,6 +18,8 @@ move(board,8,"X")
 
 display_board(board)
 
+turn(board)
+
 #index = input_to_index(input)
 
 #position_taken?(board,index)

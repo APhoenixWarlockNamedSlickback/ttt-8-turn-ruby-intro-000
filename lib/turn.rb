@@ -41,6 +41,6 @@ def turn(board)
     display_board(board)
 end
 
-def move(board,index,player = "X")
+def move(board,index,player)
   board[index]
 end
